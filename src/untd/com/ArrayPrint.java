@@ -5,7 +5,7 @@ public class ArrayPrint {
 		// TODO Auto-generated method stub
 
 		int intArray[];
-		intArray= new int[10];
+		intArray= new int[20];
 		
 		for (int i=0;i<intArray.length;i++){
 			intArray[i]=i+1;
